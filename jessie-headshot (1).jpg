@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Human Work — with Jessie Heath</title>
+  <meta name="description" content="Most of what we've been taught about leadership was built by someone else, for a world that no longer exists. Human Work is the practice of examining it — and deciding what to keep.">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌱</text></svg>">
+</head>
+<body>
+
+  <nav class="site-nav">
+    <a href="index.html" class="nav-brand">
+      <span class="brand-main">Human Work</span>
+      <span class="brand-sub">with Jessie Heath</span>
+    </a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html" class="active">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="writing.html">Writing</a></li>
+      <li><a href="courses.html">Courses</a></li>
+      <li><a href="speaking.html">Speaking</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="https://humanworkwithjessie.substack.com" target="_blank" class="nav-cta">Subscribe Free →</a></li>
+    </ul>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+
+  <main class="page-content">
+
+    <section class="hero">
+      <div class="hero-text">
+        <p class="hero-eyebrow">Human Work</p>
+        <h1>What If the Rules<br>Were <em>Wrong?</em></h1>
+        <p class="hero-lead">Most of what we have been taught about leadership, success, and the workplace was built by someone else — for a world that no longer exists. Human Work is the practice of stopping, examining what we have inherited, and deciding what to keep.</p>
+        <div class="hero-actions">
+          <a href="writing.html" class="btn-primary">Start Reading →</a>
+          <a href="about.html" class="btn-secondary">About Jessie</a>
+        </div>
+      </div>
+      <div class="hero-image">
+        <img src="jessie-headshot.jpg" alt="Jessie Heath — Leadership practitioner and founder of Human Work">
+      </div>
+    </section>
+
+    <div class="intro-strip">
+      <p>"We do not need more leadership advice. We need the courage to examine what we have already been handed — and the honesty to change what is not working."</p>
+    </div>
+
+    <!-- WHAT IS HUMAN WORK -->
+    <section class="section" style="background:white;">
+      <div class="container">
+        <p class="section-label">The Practice</p>
+        <h2 class="section-title">What Human Work<br><em>Actually Is</em></h2>
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:80px; align-items:start;">
+          <div>
+            <p style="font-size:19px; color:#3a2c20; line-height:1.8; font-weight:300; margin-bottom:24px;">For decades, we have followed blueprints — for what good leadership looks like, what a successful organization is, what it means to be productive, professional, or worthy of respect. Most of us never chose those blueprints. We inherited them.</p>
+            <p style="font-size:17px; color:#5a4a3a; line-height:1.8; font-weight:300; margin-bottom:24px;">Human Work is the deliberate practice of pulling those blueprints out, laying them on the table, and asking three honest questions: Where did this come from? Does it still serve the people I lead? And what do I need to change — in myself, or in the systems around me — to do better?</p>
+            <p style="font-size:17px; color:#5a4a3a; line-height:1.8; font-weight:300;">This is not about dismantling everything. It is about being conscious enough to choose — rather than simply absorbing what we were handed and calling it truth.</p>
+          </div>
+          <div style="display:grid; gap:20px;">
+            <div style="background:var(--cream); border-left:3px solid var(--amber); padding:28px 32px;">
+              <h3 style="font-family:var(--font-display); font-size:18px; font-weight:700; color:var(--ink); margin-bottom:10px;">Examine</h3>
+              <p style="font-size:14px; color:#6b5a4a; line-height:1.65;">Unpack what you have been following. Where did it come from? Who built it? Who does it serve — and who does it leave out?</p>
+            </div>
+            <div style="background:var(--cream); border-left:3px solid var(--amber); padding:28px 32px;">
+              <h3 style="font-family:var(--font-display); font-size:18px; font-weight:700; color:var(--ink); margin-bottom:10px;">Decide</h3>
+              <p style="font-size:14px; color:#6b5a4a; line-height:1.65;">Choose consciously. Keep what serves people. Name what does not. Stop following by default what you can now follow — or replace — by design.</p>
+            </div>
+            <div style="background:var(--cream); border-left:3px solid var(--amber); padding:28px 32px;">
+              <h3 style="font-family:var(--font-display); font-size:18px; font-weight:700; color:var(--ink); margin-bottom:10px;">Change</h3>
+              <p style="font-size:14px; color:#6b5a4a; line-height:1.65;">Do the actual work. Personally — in how you lead, how you show up, how you see people. Organizationally — in the systems, structures, and cultures you have the power to shape.</p>
+            </div>
+          </div>
+        </div>
+
+        <div style="margin-top:64px; background:var(--ink); padding:48px 52px; display:grid; grid-template-columns:80px 1fr; gap:48px; align-items:center;">
+          <div style="font-size:52px;">🧠</div>
+          <div>
+            <p style="font-size:10px; font-weight:600; letter-spacing:0.2em; text-transform:uppercase; color:var(--amber); margin-bottom:12px;">The Neuroscience Behind the Work</p>
+            <p style="font-size:15px; color:rgba(250,246,242,0.75); line-height:1.75; font-weight:300;">Our brains are wired to protect the patterns we have practiced. The beliefs we absorbed early — about authority, about worth, about what makes someone a good leader — become neural pathways that feel like truth. This is not a character flaw. It is biology. Understanding why the old patterns persist is the first step toward choosing something different. Human Work is built around this reality, not around pretending it does not exist.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FIVE LENSES -->
+    <section class="section lenses-section">
+      <div class="container">
+        <p class="section-label">Framework</p>
+        <h2 class="section-title">Five Lenses for<br><em>Examining the Work</em></h2>
+        <p class="section-lead">Every article, training, and resource lives inside one of these five frames. Explore through the lens that speaks to where you are right now.</p>
+        <div class="lenses-grid">
+          <div class="lens-card">
+            <div class="lens-number">01</div>
+            <div class="lens-icon">🪞</div>
+            <h3 class="lens-title">The Inner Work of Leadership</h3>
+            <p class="lens-desc">Identity, self-discovery, and emotional courage. The part most programs skip — examining the person doing the leading before examining the practice.</p>
+            <a href="writing.html#inner-work" class="lens-link">Explore →</a>
+          </div>
+          <div class="lens-card">
+            <div class="lens-number">02</div>
+            <div class="lens-icon">🏗️</div>
+            <h3 class="lens-title">Systems We Inherited</h3>
+            <p class="lens-desc">Outdated structures, unlearning, and redesign. The 40-hour week, the performance review, the org chart — examined honestly, not followed blindly.</p>
+            <a href="writing.html#inherited-systems" class="lens-link">Explore →</a>
+          </div>
+          <div class="lens-card">
+            <div class="lens-number">03</div>
+            <div class="lens-icon">🫀</div>
+            <h3 class="lens-title">The Human Experience of Work</h3>
+            <p class="lens-desc">Burnout, belonging, and emotional salary. What it actually feels like to show up every day — and why leaders who understand this build workplaces worth working in.</p>
+            <a href="writing.html#human-experience" class="lens-link">Explore →</a>
+          </div>
+          <div class="lens-card">
+            <div class="lens-number">04</div>
+            <div class="lens-icon">🧭</div>
+            <h3 class="lens-title">Leadership for the Modern World</h3>
+            <p class="lens-desc">Trust, clarity, and psychological safety. What is needed now — grounded in how people actually work, not how we wish they would.</p>
+            <a href="writing.html#modern-leadership" class="lens-link">Explore →</a>
+          </div>
+          <div class="lens-card">
+            <div class="lens-number">05</div>
+            <div class="lens-icon">🌱</div>
+            <h3 class="lens-title">Tools for Evolving Together</h3>
+            <p class="lens-desc">Practices, reflection prompts, and team norms. Because insight without action is just a nice thought. This is where the work becomes concrete.</p>
+            <a href="writing.html#tools" class="lens-link">Explore →</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT STRIP -->
+    <section class="about-strip">
+      <div class="about-strip-inner">
+        <div class="about-strip-image">
+          <img src="jessie-headshot.jpg" alt="Jessie Heath">
+        </div>
+        <div class="about-strip-text">
+          <p class="section-label">About Jessie</p>
+          <h2 class="section-title">This Work Comes<br>From <em>Lived Experience.</em></h2>
+          <p>I did not arrive at Human Work through research alone. I arrived through 30 years of navigating systems that were not designed for all of me — as a gay man, as someone who grew up without the blueprints others seemed to have, as a leader who had to unlearn as much as he learned.</p>
+          <p>Human Work exists because I believe the life you have lived and the leader you are are not two different things. The neuroscience confirms it. And the workplaces that understand this are the ones worth working in.</p>
+          <a href="about.html" class="btn-secondary">Read the Full Story →</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- SUBSCRIBE -->
+    <section class="subscribe-section">
+      <div class="container">
+        <p class="section-label" style="justify-content:center;">Join the Conversation</p>
+        <h2 class="section-title">The Work Continues<br>in Your Inbox</h2>
+        <p>Articles, frameworks, and honest thinking on leadership — delivered free. The kind of content that makes you stop and reconsider something you thought you already knew.</p>
+        <form class="subscribe-form" action="https://humanworkwithjessie.substack.com/subscribe" method="get" target="_blank">
+          <input type="email" name="email" placeholder="Your email address" required>
+          <button type="submit">Subscribe Free →</button>
+        </form>
+        <p class="subscribe-note">Free always. Unsubscribe any time. No spam — ever.</p>
+      </div>
+    </section>
+
+    <!-- WHAT THIS IS NOT -->
+    <section class="section" style="background:var(--ink);">
+      <div class="container" style="max-width:800px; text-align:center;">
+        <p class="section-label" style="justify-content:center; color:var(--amber);">An Honest Note</p>
+        <h2 class="section-title" style="color:var(--cream);">What Human Work<br><em>Is Not</em></h2>
+        <p style="font-size:18px; color:rgba(250,246,242,0.72); font-weight:300; line-height:1.8; margin-bottom:20px;">This is not another leadership blog telling you to wake up earlier, be more grateful, or adopt a morning routine. It is not a collection of productivity hacks dressed up as wisdom.</p>
+        <p style="font-size:18px; color:rgba(250,246,242,0.72); font-weight:300; line-height:1.8; margin-bottom:20px;">Human Work is the harder, slower, more honest practice of looking at what you have been following — and asking whether it is actually worth following. Sometimes the answer is yes. Often, it is more complicated than that.</p>
+        <p style="font-size:19px; color:var(--amber); font-weight:400; line-height:1.8; font-family:var(--font-display); font-style:italic;">"If you are willing to sit with that discomfort, you are in the right place."</p>
+        <div style="margin-top:40px;">
+          <a href="writing.html" class="btn-primary">Start Reading →</a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="brand-main">Human Work</span>
+        <span class="brand-sub">with Jessie Heath</span>
+        <p>The practice of examining what we have inherited — and choosing something better.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="writing.html">All Writing</a></li>
+          <li><a href="courses.html">Courses</a></li>
+          <li><a href="speaking.html">Speaking</a></li>
+          <li><a href="about.html">About Jessie</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Five Lenses</h4>
+        <ul>
+          <li><a href="writing.html#inner-work">Inner Work</a></li>
+          <li><a href="writing.html#inherited-systems">Inherited Systems</a></li>
+          <li><a href="writing.html#human-experience">Human Experience</a></li>
+          <li><a href="writing.html#modern-leadership">Modern Leadership</a></li>
+          <li><a href="writing.html#tools">Tools and Practices</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Connect</h4>
+        <ul>
+          <li><a href="https://humanworkwithjessie.substack.com" target="_blank">Substack Newsletter</a></li>
+          <li><a href="https://linkedin.com/in/jessie-heath-he-him-a4b9406/" target="_blank">LinkedIn</a></li>
+          <li><a href="https://facebook.com/profile.php?id=61584969185293" target="_blank">Facebook</a></li>
+          <li><a href="contact.html">Contact Jessie</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2025–2026 Human Work with Jessie Heath · All rights reserved</p>
+      <div class="social-links">
+        <a href="https://humanworkwithjessie.substack.com" target="_blank">Substack</a>
+        <a href="https://linkedin.com/in/jessie-heath-he-him-a4b9406/" target="_blank">LinkedIn</a>
+        <a href="https://facebook.com/profile.php?id=61584969185293" target="_blank">Facebook</a>
+        <a href="mailto:HumanWork-Jessie@outlook.com">Email</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.getElementById('navToggle');
+    const links  = document.getElementById('navLinks');
+    toggle.addEventListener('click', () => links.classList.toggle('open'));
+  </script>
+</body>
+</html>
